@@ -1,0 +1,18 @@
+{
+    "project": "TrafficMind V5 (Adaptive Emergency Corridor)",
+    "test_type": "Microscopic Stochastic Monte Carlo Simulation",
+    "total_runs": 2000,
+    "completed_runs": 1685,
+    "timeout_runs": 315,
+    "passed_runs": 469,
+    "marginal_runs": 1531,
+    "pass_rate_percent": 23.45,
+    "mean_true_delay_completed_sec": 28.319,
+    "total_execution_time_sec": 4184.9,
+    "workers_used": 7,
+    "safety_metrics": {
+        "conflicting_green_violations": 0,
+        "teleports": 0,
+        "deadlocks": 315
+    }
+}

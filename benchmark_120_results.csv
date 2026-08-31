@@ -1,0 +1,121 @@
+id,category,name,route,travel_time,true_delay,ev_wait,confidence,passed
+1,1. Phase & Preemption Timing,Timing_Preempt_t50s,EW_full,74.0,31.35,0.0,1.0,False
+2,1. Phase & Preemption Timing,Timing_Preempt_t60s,EW_full,70.0,27.35,0.0,1.0,False
+3,1. Phase & Preemption Timing,Timing_Preempt_t70s,EW_full,67.0,24.35,0.0,1.0,False
+4,1. Phase & Preemption Timing,Timing_Preempt_t80s,EW_full,67.0,24.35,1.0,1.0,False
+5,1. Phase & Preemption Timing,Timing_Preempt_t90s,EW_full,90.0,47.35,9.0,1.0,False
+6,1. Phase & Preemption Timing,Timing_Preempt_t100s,EW_full,85.0,42.35,11.0,1.0,False
+7,1. Phase & Preemption Timing,Timing_Preempt_t110s,EW_full,80.0,37.35,11.0,1.0,False
+8,1. Phase & Preemption Timing,Timing_Preempt_t120s,EW_full,85.0,42.35,9.0,1.0,False
+9,1. Phase & Preemption Timing,Timing_Preempt_t130s,EW_full,98.0,55.35,9.0,1.0,False
+10,1. Phase & Preemption Timing,Timing_Preempt_t140s,EW_full,97.0,54.35,23.0,1.0,False
+11,1. Phase & Preemption Timing,Timing_Preempt_t150s,EW_full,84.0,41.35,11.0,1.0,False
+12,1. Phase & Preemption Timing,Timing_Preempt_t160s,EW_full,88.0,45.35,12.0,1.0,False
+13,1. Phase & Preemption Timing,Timing_Preempt_t170s,EW_full,83.0,40.35,8.0,1.0,False
+14,1. Phase & Preemption Timing,Timing_Preempt_t180s,EW_full,99.0,56.35,11.0,1.0,False
+15,1. Phase & Preemption Timing,Timing_Preempt_t190s,EW_full,102.0,59.35,25.0,1.0,False
+16,1. Phase & Preemption Timing,Timing_Preempt_t200s,EW_full,90.0,47.35,13.0,1.0,False
+17,1. Phase & Preemption Timing,Timing_Preempt_t210s,EW_full,90.0,47.35,15.0,1.0,False
+18,1. Phase & Preemption Timing,Timing_Preempt_t220s,EW_full,88.0,45.35,11.0,1.0,False
+19,1. Phase & Preemption Timing,Timing_Preempt_t230s,EW_full,95.0,52.35,20.0,1.0,False
+20,1. Phase & Preemption Timing,Timing_Preempt_t240s,EW_full,98.0,55.35,22.0,1.0,False
+21,1. Phase & Preemption Timing,Timing_Preempt_t250s,EW_full,97.0,54.35,20.0,1.0,False
+22,1. Phase & Preemption Timing,Timing_Preempt_t260s,EW_full,97.0,54.35,14.0,1.0,False
+23,1. Phase & Preemption Timing,Timing_Preempt_t270s,EW_full,99.0,56.35,14.0,1.0,False
+24,1. Phase & Preemption Timing,Timing_Preempt_t280s,EW_full,110.0,67.35,30.0,1.0,False
+25,1. Phase & Preemption Timing,Timing_Preempt_t290s,EW_full,98.0,55.35,25.0,1.0,False
+26,1. Phase & Preemption Timing,Timing_Preempt_t300s,EW_full,102.0,59.35,17.0,1.0,False
+27,1. Phase & Preemption Timing,Timing_Preempt_t310s,EW_full,97.0,54.35,8.0,1.0,False
+28,1. Phase & Preemption Timing,Timing_Preempt_t320s,EW_full,97.0,54.35,14.0,1.0,False
+29,1. Phase & Preemption Timing,Timing_Preempt_t330s,EW_full,113.0,70.35,30.0,1.0,False
+30,1. Phase & Preemption Timing,Timing_Preempt_t340s,EW_full,101.0,58.35,17.0,1.0,False
+31,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_600,NS_C,26.0,6.55,0.0,1.0,True
+32,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_615,NS_C,28.0,8.55,0.0,1.0,True
+33,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_630,NS_C,28.0,8.55,0.0,1.0,True
+34,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_645,NS_C,28.0,8.55,0.0,1.0,True
+35,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_660,NS_C,30.0,10.55,0.0,1.0,True
+36,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_675,NS_C,29.0,9.55,0.0,1.0,True
+37,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_690,NS_C,29.0,9.55,0.0,1.0,True
+38,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_705,NS_C,29.0,9.55,0.0,1.0,True
+39,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_720,NS_C,28.0,8.55,0.0,1.0,True
+40,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_735,NS_C,30.0,10.55,0.0,1.0,True
+41,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_750,NS_C,29.0,9.55,0.0,1.0,True
+42,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_765,NS_C,33.0,13.55,2.0,1.0,True
+43,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_780,NS_C,34.0,14.55,0.0,1.0,True
+44,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_795,NS_C,34.0,14.55,1.0,1.0,True
+45,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_810,NS_C,36.0,16.55,3.0,1.0,False
+46,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_825,NS_C,39.0,19.55,5.0,1.0,False
+47,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_840,NS_C,40.0,20.55,6.0,1.0,False
+48,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_855,NS_C,41.0,21.55,7.0,1.0,False
+49,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_870,NS_C,41.0,21.55,7.0,1.0,False
+50,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_885,NS_C,43.0,23.55,10.0,1.0,False
+51,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_900,NS_C,42.0,22.55,11.0,1.0,False
+52,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_915,NS_C,46.0,26.55,10.0,1.0,False
+53,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_930,NS_C,47.0,27.55,12.0,1.0,False
+54,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_945,NS_C,51.0,31.55,12.0,1.0,False
+55,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_960,NS_C,49.0,29.55,11.0,1.0,False
+56,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_975,NS_C,58.0,38.55,17.0,1.0,False
+57,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_990,NS_C,57.0,37.55,16.0,1.0,False
+58,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_1005,NS_C,60.0,40.55,21.0,1.0,False
+59,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_1020,NS_C,57.0,37.55,17.0,1.0,False
+60,2. Recovery & Dynamic Gap-Out,Recovery_Score_NS_1035,NS_C,61.0,41.55,25.0,1.0,False
+61,3. Sensor & CV Confidence,Sensor_Degradation_C_1.0,EW_full,101.0,58.35,21.0,1.0,False
+62,3. Sensor & CV Confidence,Sensor_Degradation_C_0.96,EW_full,93.0,50.35,17.0,0.96,False
+63,3. Sensor & CV Confidence,Sensor_Degradation_C_0.93,EW_full,93.0,50.35,18.0,0.93,False
+64,3. Sensor & CV Confidence,Sensor_Degradation_C_0.9,EW_full,99.0,56.35,19.0,0.9,False
+65,3. Sensor & CV Confidence,Sensor_Degradation_C_0.86,EW_full,95.0,52.35,17.0,0.86,False
+66,3. Sensor & CV Confidence,Sensor_Degradation_C_0.82,EW_full,101.0,58.35,18.0,0.82,False
+67,3. Sensor & CV Confidence,Sensor_Degradation_C_0.79,EW_full,91.0,48.35,17.0,0.79,False
+68,3. Sensor & CV Confidence,Sensor_Degradation_C_0.76,EW_full,94.0,51.35,19.0,0.76,False
+69,3. Sensor & CV Confidence,Sensor_Degradation_C_0.72,EW_full,94.0,51.35,21.0,0.72,False
+70,3. Sensor & CV Confidence,Sensor_Degradation_C_0.68,EW_full,100.0,57.35,22.0,0.68,False
+71,3. Sensor & CV Confidence,Sensor_Degradation_C_0.65,EW_full,94.0,51.35,21.0,0.65,False
+72,3. Sensor & CV Confidence,Sensor_Degradation_C_0.61,EW_full,96.0,53.35,19.0,0.61,False
+73,3. Sensor & CV Confidence,Sensor_Degradation_C_0.58,EW_full,98.0,55.35,23.0,0.58,False
+74,3. Sensor & CV Confidence,Sensor_Degradation_C_0.54,EW_full,90.0,47.35,16.0,0.54,False
+75,3. Sensor & CV Confidence,Sensor_Degradation_C_0.51,EW_full,99.0,56.35,19.0,0.51,False
+76,3. Sensor & CV Confidence,Sensor_Degradation_C_0.47,EW_full,98.0,55.35,21.0,0.47,False
+77,3. Sensor & CV Confidence,Sensor_Degradation_C_0.44,EW_full,93.0,50.35,15.0,0.44,False
+78,3. Sensor & CV Confidence,Sensor_Degradation_C_0.4,EW_full,94.0,51.35,17.0,0.4,False
+79,3. Sensor & CV Confidence,Sensor_Degradation_C_0.37,EW_full,98.0,55.35,19.0,0.37,False
+80,3. Sensor & CV Confidence,Sensor_Degradation_C_0.33,EW_full,94.0,51.35,18.0,0.33,False
+81,3. Sensor & CV Confidence,Sensor_Degradation_C_0.3,EW_full,95.0,52.35,18.0,0.3,False
+82,3. Sensor & CV Confidence,Sensor_Degradation_C_0.26,EW_full,101.0,58.35,20.0,0.26,False
+83,3. Sensor & CV Confidence,Sensor_Degradation_C_0.23,EW_full,92.0,49.35,19.0,0.23,False
+84,3. Sensor & CV Confidence,Sensor_Degradation_C_0.19,EW_full,94.0,51.35,21.0,0.19,False
+85,3. Sensor & CV Confidence,Sensor_Degradation_C_0.16,EW_full,87.0,44.35,16.0,0.16,False
+86,3. Sensor & CV Confidence,Sensor_Degradation_C_0.12,EW_full,95.0,52.35,18.0,0.12,False
+87,3. Sensor & CV Confidence,Sensor_Degradation_C_0.09,EW_full,99.0,56.35,21.0,0.09,False
+88,3. Sensor & CV Confidence,Sensor_Degradation_C_0.05,EW_full,88.0,45.35,15.0,0.05,False
+89,3. Sensor & CV Confidence,Sensor_Degradation_C_0.02,EW_full,94.0,51.35,20.0,0.02,False
+90,3. Sensor & CV Confidence,Sensor_Degradation_C_0.0,EW_full,99.0,56.35,20.0,0.0,False
+91,4. Heavy Congestion & Complex Routes,Heavy_Turn_600_Spd_12,COMPLEX_TURN_D_TO_B,64.0,7.13,0.0,1.0,True
+92,4. Heavy Congestion & Complex Routes,Heavy_Turn_620_Spd_14,EW_full,65.0,16.26,3.0,1.0,False
+93,4. Heavy Congestion & Complex Routes,Heavy_Turn_640_Spd_16,COMPLEX_TURN_D_TO_B,59.0,16.35,0.0,1.0,False
+94,4. Heavy Congestion & Complex Routes,Heavy_Turn_660_Spd_18,EW_full,73.0,35.09,7.0,1.0,False
+95,4. Heavy Congestion & Complex Routes,Heavy_Turn_680_Spd_20,COMPLEX_TURN_D_TO_B,60.0,25.88,0.0,1.0,False
+96,4. Heavy Congestion & Complex Routes,Heavy_Turn_700_Spd_22,EW_full,75.0,43.98,7.0,1.0,False
+97,4. Heavy Congestion & Complex Routes,Heavy_Turn_720_Spd_12,COMPLEX_TURN_D_TO_B,66.0,9.13,0.0,1.0,True
+98,4. Heavy Congestion & Complex Routes,Heavy_Turn_740_Spd_14,EW_full,80.0,31.26,10.0,1.0,False
+99,4. Heavy Congestion & Complex Routes,Heavy_Turn_760_Spd_16,COMPLEX_TURN_D_TO_B,60.0,17.35,0.0,1.0,False
+100,4. Heavy Congestion & Complex Routes,Heavy_Turn_780_Spd_18,EW_full,83.0,45.09,13.0,1.0,False
+101,4. Heavy Congestion & Complex Routes,Heavy_Turn_800_Spd_20,COMPLEX_TURN_D_TO_B,62.0,27.88,0.0,1.0,False
+102,4. Heavy Congestion & Complex Routes,Heavy_Turn_820_Spd_22,EW_full,101.0,69.98,15.0,1.0,False
+103,4. Heavy Congestion & Complex Routes,Heavy_Turn_840_Spd_12,COMPLEX_TURN_D_TO_B,73.0,16.13,4.0,1.0,False
+104,4. Heavy Congestion & Complex Routes,Heavy_Turn_860_Spd_14,EW_full,111.0,62.26,27.0,1.0,False
+105,4. Heavy Congestion & Complex Routes,Heavy_Turn_880_Spd_16,COMPLEX_TURN_D_TO_B,70.0,27.35,7.0,1.0,False
+106,4. Heavy Congestion & Complex Routes,Heavy_Turn_900_Spd_18,EW_full,131.0,93.09,44.0,1.0,False
+107,4. Heavy Congestion & Complex Routes,Heavy_Turn_920_Spd_20,COMPLEX_TURN_D_TO_B,73.0,38.88,10.0,1.0,False
+108,4. Heavy Congestion & Complex Routes,Heavy_Turn_940_Spd_22,EW_full,129.0,97.98,36.0,1.0,False
+109,4. Heavy Congestion & Complex Routes,Heavy_Turn_960_Spd_12,COMPLEX_TURN_D_TO_B,83.0,26.13,14.0,1.0,False
+110,4. Heavy Congestion & Complex Routes,Heavy_Turn_980_Spd_14,EW_full,135.0,86.26,42.0,1.0,False
+111,4. Heavy Congestion & Complex Routes,Heavy_Turn_1000_Spd_16,COMPLEX_TURN_D_TO_B,87.0,44.35,20.0,1.0,False
+112,4. Heavy Congestion & Complex Routes,Heavy_Turn_1020_Spd_18,EW_full,156.0,118.09,59.0,1.0,False
+113,4. Heavy Congestion & Complex Routes,Heavy_Turn_1040_Spd_20,COMPLEX_TURN_D_TO_B,89.0,54.88,23.0,1.0,False
+114,4. Heavy Congestion & Complex Routes,Heavy_Turn_1060_Spd_22,EW_full,127.0,95.98,37.0,1.0,False
+115,4. Heavy Congestion & Complex Routes,Heavy_Turn_1080_Spd_12,COMPLEX_TURN_D_TO_B,94.0,37.13,22.0,1.0,False
+116,4. Heavy Congestion & Complex Routes,Heavy_Turn_1100_Spd_14,EW_full,125.0,76.26,39.0,1.0,False
+117,4. Heavy Congestion & Complex Routes,Heavy_Turn_1120_Spd_16,COMPLEX_TURN_D_TO_B,87.0,44.35,22.0,1.0,False
+118,4. Heavy Congestion & Complex Routes,Heavy_Turn_1140_Spd_18,EW_full,132.0,94.09,49.0,1.0,False
+119,4. Heavy Congestion & Complex Routes,Heavy_Turn_1160_Spd_20,COMPLEX_TURN_D_TO_B,89.0,54.88,23.0,1.0,False
+120,4. Heavy Congestion & Complex Routes,Heavy_Turn_1180_Spd_22,EW_full,-1.0,999.0,63.0,1.0,False

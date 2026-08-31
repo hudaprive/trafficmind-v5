@@ -1,0 +1,9 @@
+{
+    "suite": "TrafficMind V5 Microscopic Traffic Simulation Benchmark 120",
+    "total_scenarios": 120,
+    "passed": 16,
+    "failed": 104,
+    "pass_rate_percent": 13.33,
+    "total_duration_sec": 573.86,
+    "mean_delay_sec": 42.47
+}

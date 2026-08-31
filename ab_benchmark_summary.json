@@ -1,0 +1,227 @@
+{
+    "scenarios": [
+        {
+            "scenario": 1,
+            "route": "EW_full",
+            "flow_ew": 858,
+            "flow_ns": 759,
+            "fixed_tt": 172.0,
+            "fixed_wait": 87.0,
+            "tm_tt": 111.0,
+            "tm_wait": 25.0,
+            "improvement_percent": 35.47
+        },
+        {
+            "scenario": 2,
+            "route": "EW_full",
+            "flow_ew": 1003,
+            "flow_ns": 771,
+            "fixed_tt": 156.0,
+            "fixed_wait": 81.0,
+            "tm_tt": 135.0,
+            "tm_wait": 50.0,
+            "improvement_percent": 13.46
+        },
+        {
+            "scenario": 3,
+            "route": "NS_C",
+            "flow_ew": 881,
+            "flow_ns": 735,
+            "fixed_tt": 62.0,
+            "fixed_wait": 30.0,
+            "tm_tt": 26.0,
+            "tm_wait": 0.0,
+            "improvement_percent": 58.06
+        },
+        {
+            "scenario": 4,
+            "route": "EW_full",
+            "flow_ew": 774,
+            "flow_ns": 931,
+            "fixed_tt": 155.0,
+            "fixed_wait": 82.0,
+            "tm_tt": 81.0,
+            "tm_wait": 6.0,
+            "improvement_percent": 47.74
+        },
+        {
+            "scenario": 5,
+            "route": "NS_B",
+            "flow_ew": 749,
+            "flow_ns": 811,
+            "fixed_tt": 44.0,
+            "fixed_wait": 11.0,
+            "tm_tt": 36.0,
+            "tm_wait": 3.0,
+            "improvement_percent": 18.18
+        },
+        {
+            "scenario": 6,
+            "route": "NS_D",
+            "flow_ew": 1033,
+            "flow_ns": 768,
+            "fixed_tt": 49.0,
+            "fixed_wait": 14.0,
+            "tm_tt": 30.0,
+            "tm_wait": 0.0,
+            "improvement_percent": 38.78
+        },
+        {
+            "scenario": 7,
+            "route": "EW_full",
+            "flow_ew": 716,
+            "flow_ns": 916,
+            "fixed_tt": 121.0,
+            "fixed_wait": 52.0,
+            "tm_tt": 82.0,
+            "tm_wait": 10.0,
+            "improvement_percent": 32.23
+        },
+        {
+            "scenario": 8,
+            "route": "EW_full",
+            "flow_ew": 864,
+            "flow_ns": 852,
+            "fixed_tt": 129.0,
+            "fixed_wait": 56.0,
+            "tm_tt": 93.0,
+            "tm_wait": 15.0,
+            "improvement_percent": 27.91
+        },
+        {
+            "scenario": 9,
+            "route": "COMPLEX_TURN_D_TO_B",
+            "flow_ew": 769,
+            "flow_ns": 772,
+            "fixed_tt": 60.0,
+            "fixed_wait": 0.0,
+            "tm_tt": 66.0,
+            "tm_wait": 3.0,
+            "improvement_percent": 0.0
+        },
+        {
+            "scenario": 10,
+            "route": "EW_full",
+            "flow_ew": 724,
+            "flow_ns": 733,
+            "fixed_tt": 137.0,
+            "fixed_wait": 66.0,
+            "tm_tt": 73.0,
+            "tm_wait": 9.0,
+            "improvement_percent": 46.72
+        },
+        {
+            "scenario": 11,
+            "route": "NS_C",
+            "flow_ew": 883,
+            "flow_ns": 981,
+            "fixed_tt": 76.0,
+            "fixed_wait": 37.0,
+            "tm_tt": 61.0,
+            "tm_wait": 20.0,
+            "improvement_percent": 19.74
+        },
+        {
+            "scenario": 12,
+            "route": "COMPLEX_TURN_D_TO_B",
+            "flow_ew": 1009,
+            "flow_ns": 843,
+            "fixed_tt": 73.0,
+            "fixed_wait": 10.0,
+            "tm_tt": 65.0,
+            "tm_wait": 3.0,
+            "improvement_percent": 10.96
+        },
+        {
+            "scenario": 13,
+            "route": "NS_D",
+            "flow_ew": 912,
+            "flow_ns": 946,
+            "fixed_tt": 96.0,
+            "fixed_wait": 58.0,
+            "tm_tt": 58.0,
+            "tm_wait": 20.0,
+            "improvement_percent": 39.58
+        },
+        {
+            "scenario": 14,
+            "route": "EW_full",
+            "flow_ew": 749,
+            "flow_ns": 806,
+            "fixed_tt": 113.0,
+            "fixed_wait": 43.0,
+            "tm_tt": 87.0,
+            "tm_wait": 10.0,
+            "improvement_percent": 23.01
+        },
+        {
+            "scenario": 15,
+            "route": "NS_D",
+            "flow_ew": 807,
+            "flow_ns": 999,
+            "fixed_tt": 103.0,
+            "fixed_wait": 67.0,
+            "tm_tt": 48.0,
+            "tm_wait": 5.0,
+            "improvement_percent": 53.4
+        },
+        {
+            "scenario": 16,
+            "route": "COMPLEX_TURN_D_TO_B",
+            "flow_ew": 733,
+            "flow_ns": 946,
+            "fixed_tt": 116.0,
+            "fixed_wait": 53.0,
+            "tm_tt": 71.0,
+            "tm_wait": 9.0,
+            "improvement_percent": 38.79
+        },
+        {
+            "scenario": 17,
+            "route": "COMPLEX_TURN_D_TO_B",
+            "flow_ew": 893,
+            "flow_ns": 900,
+            "fixed_tt": 147.0,
+            "fixed_wait": 76.0,
+            "tm_tt": 72.0,
+            "tm_wait": 6.0,
+            "improvement_percent": 51.02
+        },
+        {
+            "scenario": 18,
+            "route": "EW_full",
+            "flow_ew": 1050,
+            "flow_ns": 739,
+            "fixed_tt": 163.0,
+            "fixed_wait": 83.0,
+            "tm_tt": 148.0,
+            "tm_wait": 57.0,
+            "improvement_percent": 9.2
+        },
+        {
+            "scenario": 19,
+            "route": "EW_full",
+            "flow_ew": 955,
+            "flow_ns": 783,
+            "fixed_tt": 174.0,
+            "fixed_wait": 95.0,
+            "tm_tt": 129.0,
+            "tm_wait": 37.0,
+            "improvement_percent": 25.86
+        },
+        {
+            "scenario": 20,
+            "route": "NS_D",
+            "flow_ew": 916,
+            "flow_ns": 886,
+            "fixed_tt": 85.0,
+            "fixed_wait": 46.0,
+            "tm_tt": 51.0,
+            "tm_wait": 12.0,
+            "improvement_percent": 40.0
+        }
+    ],
+    "mean_improvement_percent": 31.51,
+    "mean_fixed_wait": 52.35,
+    "mean_tm_wait": 15.0
+}
